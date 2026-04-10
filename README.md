@@ -1,4 +1,4 @@
-Course projects for "Artificial Intelligence and Management" of the Department of Business Administration at the National and Kapodistrian University of Athens.
+Course project for "Artificial Intelligence and Management" of the Department of Business Administration at the National and Kapodistrian University of Athens.
 
 # **Product Classification & Data Quality Analysis**
 
