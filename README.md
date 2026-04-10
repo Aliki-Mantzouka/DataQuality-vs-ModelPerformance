@@ -1,4 +1,4 @@
-
+Course projects for "Artificial Intelligence and Management" of the Department of Business Administration at the National and Kapodistrian University of Athens.
 
 # **Product Classification & Data Quality Analysis**
 
@@ -22,5 +22,5 @@ To run this project, you will need Python 3.x and Jupyter Notebook.
 
 You can install the necessary dependencies using pip:
 
-Bash
+Bash:
 pip install pandas numpy matplotlib scikit-learn notebook
